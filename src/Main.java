@@ -24,5 +24,22 @@ public class Main {
         var weight = boxer2 % boxer1;
         System.out.println(weight);
 
+        //Задача 8.1
+        var time = 640;
+        System.out.println(time);
+        var people = time / 8 ;
+        System.out.println(people);
+
+        //Задача 8.2
+        var time = 640;
+        System.out.println(time);
+        var people = time / 8 ;
+        System.out.println(people);
+        var person = people + 94;
+        System.out.println(person);
+        var totaltime = time / person;
+        System.out.println(totaltime);
+
+
 
 }
